@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main4 {
+public class Main {
 	private static List<Student> studentList;
 	private static Scanner scanner;
 	public static void main(String[] args) {
